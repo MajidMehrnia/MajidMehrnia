@@ -7,11 +7,16 @@
 </p>
 
 
-
+<p align="Left">
   <a href="https://www.credly.com/badges/df1238f1-81a1-4e18-857a-c66172ad535c/public_url" target="_blank">
     🔗 Mathworks Verification
+    </a>
+</p>
+
+  <p align="Right">  
   <a href="https://innovation.ansys.com/badges/badge/YXV0b21vdGl2ZS1jb21wb25lbnRzLWRlc2lnbi1mbHVpZHMtYW5kLXRoZXJtYWwtMTI=">
    🔗 ANSYS Verification
-  </a>
+    </a>
+</p>
 
 
