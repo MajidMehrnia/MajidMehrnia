@@ -1,7 +1,7 @@
 <p align="center">
   <a href="LINK_VERIFY">
   <img width="329" height="329" alt="foundational-simulink (2)" src="https://github.com/user-attachments/assets/e802a3a6-192a-4708-9983-3edf8225265b" />
-  <img width="300" height="300" alt="foundational-simulink (2)" src="https://github.com/user-attachments/assets/dc76b593-4f6c-46a8-b51e-2f23485c3f1c" />
+  <img width="300" height="300" alt="foundational-simulink (2)" src="https://github.com/user-attachments/assets/7ba1e5b5-6131-4616-8855-b9d2ddefd235" />
   <img width="289" height="289" alt="foundational-simulink (2)" src="https://github.com/user-attachments/assets/3a0ba4a8-8802-4ee1-93f5-1638985ec497" />
     </a>
 </p>
@@ -9,7 +9,7 @@
 
 <p align="Left">
   <a href="https://www.credly.com/badges/df1238f1-81a1-4e18-857a-c66172ad535c/public_url" target="_blank">
-    🔗 Mathworks Verification
+    🔗 MathWorks Verification
     </a>
 </p>
 
@@ -20,3 +20,4 @@
 </p>
 
 
+![GT]()
