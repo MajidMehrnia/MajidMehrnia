@@ -9,9 +9,9 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/df1238f1-81a1-4e18-857a-c66172ad535c/public_url" target="_blank">
-  <a href="https://innovation.ansys.com/badges/badge/YXV0b21vdGl2ZS1jb21wb25lbnRzLWRlc2lnbi1mbHVpZHMtYW5kLXRoZXJtYWwtMTI=">
     🔗 Mathworks Verification
-    🔗 ANSYS Verification
+  <a href="https://innovation.ansys.com/badges/badge/YXV0b21vdGl2ZS1jb21wb25lbnRzLWRlc2lnbi1mbHVpZHMtYW5kLXRoZXJtYWwtMTI=">
+   🔗 ANSYS Verification
   </a>
 </p>
 
