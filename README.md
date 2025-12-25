@@ -14,6 +14,6 @@
 
 <p align="center">
   <a href="LINK_VERIFY">
- ![Ansys-b1](https://github.com/user-attachments/assets/4061e964-2fcc-4089-814a-83398eef2c2e)
+    <img width="329" height="329" alt="foundational-simulink (2)" src="https://github.com/user-attachments/assets/4061e964-2fcc-4089-814a-83398eef2c2e" />
   </a>
 </p>
