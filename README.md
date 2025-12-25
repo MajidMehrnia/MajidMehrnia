@@ -1,2 +1,2 @@
-![Simulink](https://github.com/user-attachments/assets/c5f374ea-33ed-4e82-9903-91c3ea2a48a7)
+![AWS Badge](https://www.credly.com/badges/df1238f1-81a1-4e18-857a-c66172ad535c/public_url)
 
