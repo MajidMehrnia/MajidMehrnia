@@ -1,4 +1,5 @@
 
-<img width="834" height="834" alt="foundational-simulink (1)" src="https://github.com/user-attachments/assets/f3d2702f-a2ca-4c73-9269-e3f236821e21" />
+<img width="329" height="329" alt="foundational-simulink (2)" src="https://github.com/user-attachments/assets/e802a3a6-192a-4708-9983-3edf8225265b" />
+
 
 
