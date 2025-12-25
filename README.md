@@ -13,7 +13,7 @@
     </a>
 </p>
 
-  <p align="Right">  
+  <p align="Left">  
   <a href="https://innovation.ansys.com/badges/badge/YXV0b21vdGl2ZS1jb21wb25lbnRzLWRlc2lnbi1mbHVpZHMtYW5kLXRoZXJtYWwtMTI=">
    🔗 ANSYS Verification
     </a>
