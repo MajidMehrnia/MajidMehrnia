@@ -17,8 +17,18 @@
     </a>
 </p>
 
+ <p align="Left">  
+  <a href="https://drive.google.com/file/d/1eBRIcm60WFN9aB2IBZMcqCMwdBcnFmBc/view=">
+   🔗 GT Verification
+    </a>
+
   <p align="Left">  
   <a href="https://innovation.ansys.com/badges/badge/YXV0b21vdGl2ZS1jb21wb25lbnRzLWRlc2lnbi1mbHVpZHMtYW5kLXRoZXJtYWwtMTI=">
    🔗 ANSYS Verification
     </a>
 </p>
+
+ <p align="Left">  
+  <a href="https://www.credly.com/badges/39fec3cc-563a-42eb-831f-6588f1e5a6dd/public_url=">
+   🔗 IBM Verification
+    </a>
