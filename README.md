@@ -23,7 +23,7 @@
 
  <p align="Left">  
   <a href="https://drive.google.com/file/d/1eBRIcm60WFN9aB2IBZMcqCMwdBcnFmBc/view?usp=sharing=">
-   🔗 GT Verification
+   🔗 Gamma Technologies Verification
     </a>
 
   <p align="Left">  
