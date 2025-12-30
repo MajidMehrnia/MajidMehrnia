@@ -9,7 +9,6 @@
        <p align="center">
     <a href="https://innovation.ansys.com/badges/badge/YXV0b21vdGl2ZS1jb21wb25lbnRzLWRlc2lnbi1mbHVpZHMtYW5kLXRoZXJtYWwtMTI%3D">
   <img width="229" height="259" alt="ANSYS (2)" src="https://github.com/user-attachments/assets/af03bb7f-518d-494b-acf2-e2d4fda23d50" />
-      
     <a href="https://www.credly.com/badges/39fec3cc-563a-42eb-831f-6588f1e5a6dd/public_url">
   <img width="259" height="259" alt="IBM (2)" src="https://github.com/user-attachments/assets/5212a61e-8117-408d-b113-f94004c56cc8" />
    </a>
