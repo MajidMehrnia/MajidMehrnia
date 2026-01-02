@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.credly.com/badges/df1238f1-81a1-4e18-857a-c66172ad535c/public_url">
-  <img width="214" height="214" alt="foundational-simulink (2)" src="https://github.com/user-attachments/assets/e802a3a6-192a-4708-9983-3edf8225265b" />
+  <img width="207" height="207" alt="foundational-simulink (2)" src="https://github.com/user-attachments/assets/e802a3a6-192a-4708-9983-3edf8225265b" />
      <a href="https://drive.google.com/file/d/1eBRIcm60WFN9aB2IBZMcqCMwdBcnFmBc/view">
        <img width="199" height="199" alt="GT (2)" src="https://github.com/user-attachments/assets/9a0e8731-7e0e-43d8-a0e4-d886a0cc2898" />
     <a href="https://innovation.ansys.com/badges/badge/YXV0b21vdGl2ZS1jb21wb25lbnRzLWRlc2lnbi1mbHVpZHMtYW5kLXRoZXJtYWwtMTI%3D">
