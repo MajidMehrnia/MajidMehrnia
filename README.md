@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.credly.com/badges/df1238f1-81a1-4e18-857a-c66172ad535c/public_url">
-  <img width="202" height="202" alt="foundational-simulink (2)" src="https://github.com/user-attachments/assets/e802a3a6-192a-4708-9983-3edf8225265b" />
+  <img width="192" height="192" alt="foundational-simulink (2)" src="https://github.com/user-attachments/assets/e802a3a6-192a-4708-9983-3edf8225265b" />
      <a href="https://drive.google.com/file/d/1eBRIcm60WFN9aB2IBZMcqCMwdBcnFmBc/view">
        <img width="182" height="182" alt="GT (2)" src="https://github.com/user-attachments/assets/9a0e8731-7e0e-43d8-a0e4-d886a0cc2898" />
     <a href="https://innovation.ansys.com/badges/badge/YXV0b21vdGl2ZS1jb21wb25lbnRzLWRlc2lnbi1mbHVpZHMtYW5kLXRoZXJtYWwtMTI%3D">
@@ -10,5 +10,14 @@
    </a>
 </p> 
 
+<p align="left">
+    <a href="https://www.credly.com/badges/df1238f1-81a1-4e18-857a-c66172ad535c/public_url" target="_blank">🔗 MathWorks Verification</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://drive.google.com/file/d/1eBRIcm60WFN9aB2IBZMcqCMwdBcnFmBc/view?usp=sharing" target="_blank">🔗 Gamma Technologies Verification</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://innovation.ansys.com/badges/badge/YXV0b21vdGl2ZS1jb21wb25lbnRzLWRlc2lnbi1mbHVpZHMtYW5kLXRoZXJtYWwtMTI=" target="_blank">🔗 ANSYS Verification</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.credly.com/badges/39fec3cc-563a-42eb-831f-6588f1e5a6dd/public_url" target="_blank">🔗 IBM Verification</a>
+</p>
 
 
