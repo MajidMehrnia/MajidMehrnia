@@ -10,14 +10,13 @@
    </a>
 </p> 
 
-<p align="left">
-    <a href="https://www.credly.com/badges/df1238f1-81a1-4e18-857a-c66172ad535c/public_url" target="_blank">🔗 MathWorks Verification</a>
+<p align="center">
+    <a href="https://www.credly.com/badges/df1238f1-81a1-4e18-857a-c66172ad535c/public_url" target="_blank" style="text-decoration: none;">🔗 <u>MathWorks Verification</u></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://drive.google.com/file/d/1eBRIcm60WFN9aB2IBZMcqCMwdBcnFmBc/view?usp=sharing" target="_blank">🔗 Gamma Technologies Verification</a>
+    <a href="https://drive.google.com/file/d/1eBRIcm60WFN9aB2IBZMcqCMwdBcnFmBc/view?usp=sharing" target="_blank" style="text-decoration: none;">🔗 <u>Gamma Technologies Verification</u></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://innovation.ansys.com/badges/badge/YXV0b21vdGl2ZS1jb21wb25lbnRzLWRlc2lnbi1mbHVpZHMtYW5kLXRoZXJtYWwtMTI=" target="_blank">🔗 ANSYS Verification</a>
+    <a href="https://innovation.ansys.com/badges/badge/YXV0b21vdGl2ZS1jb21wb25lbnRzLWRlc2lnbi1mbHVpZHMtYW5kLXRoZXJtYWwtMTI=" target="_blank" style="text-decoration: none;">🔗 <u>ANSYS Verification</u></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.credly.com/badges/39fec3cc-563a-42eb-831f-6588f1e5a6dd/public_url" target="_blank">🔗 IBM Verification</a>
+    <a href="https://www.credly.com/badges/39fec3cc-563a-42eb-831f-6588f1e5a6dd/public_url" target="_blank" style="text-decoration: none;">🔗 <u>IBM Verification</u></a>
 </p>
-
 
