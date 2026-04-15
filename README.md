@@ -15,7 +15,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://drive.google.com/file/d/1eBRIcm60WFN9aB2IBZMcqCMwdBcnFmBc/view?usp=sharing" target="_blank" style="text-decoration:none;">
-        🔗 <span style="text-decoration:underline; font-size:small;">Refrigerant Badge</span>
+        🔗 <span style="text-decoration:underline; font-size:small;">Refrigerant Simulation Badge</span>
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://innovation.ansys.com/badges/badge/YXV0b21vdGl2ZS1jb21wb25lbnRzLWRlc2lnbi1mbHVpZHMtYW5kLXRoZXJtYWwtMTI=" target="_blank" style="text-decoration:none;">
