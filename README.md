@@ -12,7 +12,7 @@
     </td>
     <td>
       <a href="https://innovation.ansys.com/badges/badge/YXV0b21vdGl2ZS1jb21wb25lbnRzLWRlc2lnbi1mbHVpZHMtYW5kLXRoZXJtYWwtMTI%3D">
-        <img width="160" src="https://github.com/user-attachments/assets/af03bb7f-518d-494b-acf2-e2d4fda23d50"/>
+        <img width="180" src="https://github.com/user-attachments/assets/af03bb7f-518d-494b-acf2-e2d4fda23d50"/>
       </a>
     </td>
     <td>
