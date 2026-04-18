@@ -12,8 +12,8 @@
     </td>
     <td align="center">
       <a href="https://innovation.ansys.com/badges/badge/YXV0b21vdGl2ZS1jb21wb25lbnRzLWRlc2lnbi1mbHVpZHMtYW5kLXRoZXJtYWwtMTI%3D">
-        <img width="150" src="https://github.com/user-attachments/assets/af03bb7f-518d-494b-acf2-e2d4fda23d50"/>
-      </a>
+        <img width="150" src="https://github.com/user-attachments/assets/2f7c0b6e-be0b-418c-9d17-e99fa927d2fd/>
+          </a>
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/39fec3cc-563a-42eb-831f-6588f1e5a6dd/public_url">
