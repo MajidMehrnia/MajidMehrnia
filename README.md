@@ -40,7 +40,7 @@
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/39fec3cc-563a-42eb-831f-6588f1e5a6dd/public_url">
-        🔗 ML
+        🔗 Machine learning (ML) 
       </a>
     </td>
   </tr>
