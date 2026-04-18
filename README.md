@@ -11,7 +11,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://innovation.ansys.com/badges/badge/YXV0b21vdGl2ZS1jb21wb25lbnRzLWRlc2lnbi1mbHVpZHMtYW5kLXRoZXJtYWwtMTI%3D">
+      <a href="https://innovation.ansys.com/badges/badge/dG9wb2xvZ3ktb3B0aW1pemF0aW9uLXVzaW5nLWFuc3lzLWRpc2NvdmVyeS02OQ%3D%3D">
         <img width="150" src="https://github.com/user-attachments/assets/2f7c0b6e-be0b-418c-9d17-e99fa927d2fd"/>
           </a>
     </td>
@@ -34,8 +34,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://innovation.ansys.com/badges/badge/YXV0b21vdGl2ZS1jb21wb25lbnRzLWRlc2lnbi1mbHVpZHMtYW5kLXRoZXJtYWwtMTI=">
-        🔗 Thermal CFD
+      <a href="https://innovation.ansys.com/badges/badge/dG9wb2xvZ3ktb3B0aW1pemF0aW9uLXVzaW5nLWFuc3lzLWRpc2NvdmVyeS02OQ%3D%3D=">
+        🔗 CFD Optimization
       </a>
     </td>
     <td align="center">
