@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td align="center">
-       <a href="https://drive.google.com/file/d/1eBRIcm60WFN9aB2IBZMcqCMwdBcnFmBc/view](https://e-student.org/coursera-professional-certificate-google-project-management/)">
+       <a href="https://e-student.org/coursera-professional-certificate-google-project-management/">
       <img width="180" height="149" alt="pm" src="https://github.com/user-attachments/assets/fc377245-3e45-4916-8e1e-9d0e48abc2f9" />
     </a>
     </td>
