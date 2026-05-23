@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td align="center">
-       <a href="https://drive.google.com/file/d/1eBRIcm60WFN9aB2IBZMcqCMwdBcnFmBc/view">
+       <a href="https://drive.google.com/file/d/1eBRIcm60WFN9aB2IBZMcqCMwdBcnFmBc/view](https://e-student.org/coursera-professional-certificate-google-project-management/)">
       <img width="180" height="149" alt="pm" src="https://github.com/user-attachments/assets/fc377245-3e45-4916-8e1e-9d0e48abc2f9" />
     </a>
     </td>
@@ -24,23 +24,23 @@
 
   <tr>
     <td align="center">
-      <a href="https://www.">
-        🔗 Project Management
+      <a href="https://e-student.org/coursera-professional-certificate-google-project-management/">
+         Project Management
       </a>
     </td>
     <td align="center">
       <a href="https://drive.google.com/file/d/1eBRIcm60WFN9aB2IBZMcqCMwdBcnFmBc/view?usp=sharing">
-        🔗 Refrigerant Simulation
+         Refrigerant Simulation
       </a>
     </td>
     <td align="center">
       <a href="https://innovation.ansys.com/badges/badge/dG9wb2xvZ3ktb3B0aW1pemF0aW9uLXVzaW5nLWFuc3lzLWRpc2NvdmVyeS02OQ%3D%3D=">
-        🔗 CFD Optimization
+        CFD Optimization
       </a>
     </td>
     <td align="center">
         <a href="https://www.credly.com/badges/df1238f1-81a1-4e18-857a-c66172ad535c/public_url">
-        🔗 System Modeling
+        System Modeling
       </a>
     </td>
   </tr>
