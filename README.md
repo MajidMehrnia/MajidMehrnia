@@ -2,7 +2,7 @@
   <tr>
     <td align="center">
        <a href="https://drive.google.com/file/d/1eBRIcm60WFN9aB2IBZMcqCMwdBcnFmBc/view">
-      <img width="206" height="179" alt="pm" src="https://github.com/user-attachments/assets/fc377245-3e45-4916-8e1e-9d0e48abc2f9" />
+      <img width="180" height="149" alt="pm" src="https://github.com/user-attachments/assets/fc377245-3e45-4916-8e1e-9d0e48abc2f9" />
     </a>
     </td>
     <td align="center">
