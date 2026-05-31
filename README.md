@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td align="center">
-     <img width="300" height="300" alt="blob" src="https://github.com/user-attachments/assets/d03c9110-b7a7-48d6-9808-82d7d733356a" />
+     <img width="150" height="150" alt="blob" src="https://github.com/user-attachments/assets/d03c9110-b7a7-48d6-9808-82d7d733356a" />
     </a>
     </td>
     <td align="center">
