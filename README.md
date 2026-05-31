@@ -1,8 +1,7 @@
 <table align="center">
   <tr>
     <td align="center">
-       <a href="https://e-student.org/coursera-professional-certificate-google-project-management/">
-      <img width="200" height="189" alt="pm" src="https://github.com/user-attachments/assets/fc377245-3e45-4916-8e1e-9d0e48abc2f9" />
+     <img width="600" height="600" alt="blob" src="https://github.com/user-attachments/assets/d03c9110-b7a7-48d6-9808-82d7d733356a" />
     </a>
     </td>
     <td align="center">
@@ -24,8 +23,7 @@
 
   <tr>
     <td align="center">
-      <a href="https://e-student.org/coursera-professional-certificate-google-project-management/">
-         Project Management
+           PLM strategies
       </a>
     </td>
     <td align="center">
