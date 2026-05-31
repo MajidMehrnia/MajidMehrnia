@@ -23,7 +23,7 @@
 
   <tr>
     <td align="center">
-           PLM strategies
+           PLM Strategies
       </a>
     </td>
     <td align="center">
