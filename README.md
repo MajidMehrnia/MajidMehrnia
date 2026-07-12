@@ -29,7 +29,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="[https://drive.google.com/file/d/1eBRIcm60WFN9aB2IBZMcqCMwdBcnFmBc/view?usp=sharing](https://eu1.iam.3dexperience.3ds.com/login?service=https%3A%2F%2Feduspace.3ds.com%2FCompanionManager%2Frest%2Fup%2FauthenticateService%2Fauthenticate%3Flang%3Dde%26rc_Type%3D5%26lpId%3D430%26lexType%3D3%26rd%3Dtrue)">
+      <a href="https://eu1.iam.3dexperience.3ds.com">
          Product Lifecycle Management
       </a>
     </td>
