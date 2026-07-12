@@ -7,7 +7,7 @@
     </td>
     <td align="center">
       <a href="https://drive.google.com/file/d/1eBRIcm60WFN9aB2IBZMcqCMwdBcnFmBc/view">
-        <img width="180" src="https://github.com/user-attachments/assets/9a0e8731-7e0e-43d8-a0e4-d886a0cc2898"/>
+        <img width="960" height="960" alt="image" src="https://github.com/user-attachments/assets/aa1693a1-dab4-4e05-925e-98eaeea8f5b8" />
       </a>
     </td>
     <td align="center">
