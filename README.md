@@ -7,7 +7,7 @@
     </td>
     <td align="center">
       <a href="https://eu1.iam.3dexperience.3ds.com/login?service=https%3A%2F%2Feduspace.3ds.com%2FCompanionManager%2Frest%2Fup%2FauthenticateService%2Fauthenticate%3Flang%3Dde%26rc_Type%3D5%26lpId%3D430%26lexType%3D3%26rd%3Dtrue">
-       <img width="197" height="213" alt="image" src="https://github.com/user-attachments/assets/b1f031e9-a36b-4a2a-8a24-c74ed7ddc984" />
+       <img width="180" height="185" alt="image" src="https://github.com/user-attachments/assets/b1f031e9-a36b-4a2a-8a24-c74ed7ddc984" />
       </a>
     </td>
     <td align="center">
