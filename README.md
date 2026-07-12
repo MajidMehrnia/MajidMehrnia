@@ -6,8 +6,8 @@
     </a>
     </td>
     <td align="center">
-      <a href="https://drive.google.com/file/d/1eBRIcm60WFN9aB2IBZMcqCMwdBcnFmBc/view">
-        <img width="960" height="960" alt="image" src="https://github.com/user-attachments/assets/aa1693a1-dab4-4e05-925e-98eaeea8f5b8" />
+      <a href="https://eu1.iam.3dexperience.3ds.com/login?service=https%3A%2F%2Feduspace.3ds.com%2FCompanionManager%2Frest%2Fup%2FauthenticateService%2Fauthenticate%3Flang%3Dde%26rc_Type%3D5%26lpId%3D430%26lexType%3D3%26rd%3Dtrue">
+       <img width="197" height="213" alt="image" src="https://github.com/user-attachments/assets/b1f031e9-a36b-4a2a-8a24-c74ed7ddc984" />
       </a>
     </td>
     <td align="center">
@@ -29,8 +29,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://drive.google.com/file/d/1eBRIcm60WFN9aB2IBZMcqCMwdBcnFmBc/view?usp=sharing">
-         Refrigerant Simulation
+      <a href="[https://drive.google.com/file/d/1eBRIcm60WFN9aB2IBZMcqCMwdBcnFmBc/view?usp=sharing](https://eu1.iam.3dexperience.3ds.com/login?service=https%3A%2F%2Feduspace.3ds.com%2FCompanionManager%2Frest%2Fup%2FauthenticateService%2Fauthenticate%3Flang%3Dde%26rc_Type%3D5%26lpId%3D430%26lexType%3D3%26rd%3Dtrue)">
+         Product Lifecycle Management
       </a>
     </td>
     <td align="center">
