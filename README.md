@@ -35,7 +35,7 @@
     </td>
     <td align="center">
       <a href="https://innovation.ansys.com/badges/badge/dG9wb2xvZ3ktb3B0aW1pemF0aW9uLXVzaW5nLWFuc3lzLWRpc2NvdmVyeS02OQ%3D%3D=">
-        Cooling System
+        Cooling Systems
       </a>
     </td>
     <td align="center">
