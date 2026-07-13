@@ -12,7 +12,7 @@
     </td>
     <td align="center">
       <a href="https://innovation.ansys.com/badges/badge/dG9wb2xvZ3ktb3B0aW1pemF0aW9uLXVzaW5nLWFuc3lzLWRpc2NvdmVyeS02OQ%3D%3D">
-        <img width="150" src="https://github.com/user-attachments/assets/2f7c0b6e-be0b-418c-9d17-e99fa927d2fd"/>
+        <img width="207" height="202" alt="GT" src="https://github.com/user-attachments/assets/306d43e3-8761-450d-8492-ba18b28611b3" />
           </a>
     </td>
     <td align="center">
@@ -35,7 +35,7 @@
     </td>
     <td align="center">
       <a href="https://innovation.ansys.com/badges/badge/dG9wb2xvZ3ktb3B0aW1pemF0aW9uLXVzaW5nLWFuc3lzLWRpc2NvdmVyeS02OQ%3D%3D=">
-        CFD Optimization
+        Cooling System
       </a>
     </td>
     <td align="center">
