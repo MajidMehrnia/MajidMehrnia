@@ -31,7 +31,6 @@
     <td align="center">
       <a href="https://eu1.iam.3dexperience.3ds.com">
         <img width="542" height="70" alt="image" src="https://github.com/user-attachments/assets/4eec5202-4abb-44e5-8163-f47020b7ca7d" />
-         Digital Thread & PLM Governance 
       </a>
     </td>
     <td align="center">
