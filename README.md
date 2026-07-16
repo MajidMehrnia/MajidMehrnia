@@ -30,7 +30,7 @@
     </td>
     <td align="center">
       <a href="https://eu1.iam.3dexperience.3ds.com">
-           Digital Thread & PLM Governance
+           Digital Thread 
       </a>
     </td>
     <td align="center">
