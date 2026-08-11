@@ -35,12 +35,12 @@
     </td>
     <td align="center">
       <a href="https://innovation.ansys.com/badges/badge/dG9wb2xvZ3ktb3B0aW1pemF0aW9uLXVzaW5nLWFuc3lzLWRpc2NvdmVyeS02OQ%3D%3D=">
-        Cooling Systems
+        Thermo-Fluid Systems
       </a>
     </td>
     <td align="center">
         <a href="https://www.credly.com/badges/df1238f1-81a1-4e18-857a-c66172ad535c/public_url">
-        System Engineering
+        Systems Engineering
       </a>
     </td>
   </tr>
