@@ -17,8 +17,8 @@
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/df1238f1-81a1-4e18-857a-c66172ad535c/public_url">
-        <img width="180" src="https://github.com/user-attachments/assets/e802a3a6-192a-4708-9983-3edf8225265b"/>
-      </a>
+        <img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/810e2e30-addf-419f-9322-7826c03eab28" />
+           </a>
     </td>
   </tr>
 
