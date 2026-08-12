@@ -17,7 +17,7 @@
     </td>
     <td align="center">
       <a href="https://www.credly.com/org/apmg-international/badge/model-based-system-engineering-with-sysml-foundation">
-       <img width="187" height="187" alt="image" src="https://github.com/user-attachments/assets/a5b02fec-6911-4ba2-949b-ad6202391397" />
+       <img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/a5b02fec-6911-4ba2-949b-ad6202391397" />
            </a>
     </td>
   </tr>
