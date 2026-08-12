@@ -16,8 +16,8 @@
          </a>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/badges/df1238f1-81a1-4e18-857a-c66172ad535c/public_url">
-        <img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/810e2e30-addf-419f-9322-7826c03eab28" />
+      <a href="https://www.credly.com/org/apmg-international/badge/model-based-system-engineering-with-sysml-foundation">
+       <img width="187" height="187" alt="image" src="https://github.com/user-attachments/assets/a5b02fec-6911-4ba2-949b-ad6202391397" />
            </a>
     </td>
   </tr>
@@ -39,7 +39,7 @@
       </a>
     </td>
     <td align="center">
-        <a href="https://www.credly.com/badges/df1238f1-81a1-4e18-857a-c66172ad535c/public_url">
+        <a href="https://www.credly.com/org/apmg-international/badge/model-based-system-engineering-with-sysml-foundation">
         Systems Engineering
       </a>
     </td>
