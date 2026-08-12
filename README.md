@@ -11,8 +11,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://innovation.ansys.com/badges/badge/dG9wb2xvZ3ktb3B0aW1pemF0aW9uLXVzaW5nLWFuc3lzLWRpc2NvdmVyeS02OQ%3D%3D">
-       <img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/2a2c6a16-4f8d-4fcb-abdf-553907c02f9b" />
+      <a href="https://www.credly.com/org/university-of-arizona/badge/fast-track-semiconductor-manufacturing">
+       <img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/d960738a-74da-4a23-89cd-ade7a3a5ea25" />
          </a>
     </td>
     <td align="center">
@@ -34,7 +34,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.coursera.org/specializations/intro-semiconductor-micro-electromechanical-systems?utm_source=chatgpt.com">
+      <a href="https://www.credly.com/org/university-of-arizona/badge/fast-track-semiconductor-manufacturing">
         Semiconductor Fabrication
       </a>
     </td>
