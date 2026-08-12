@@ -12,8 +12,8 @@
     </td>
     <td align="center">
       <a href="https://innovation.ansys.com/badges/badge/dG9wb2xvZ3ktb3B0aW1pemF0aW9uLXVzaW5nLWFuc3lzLWRpc2NvdmVyeS02OQ%3D%3D">
-        <img width="177" height="172" alt="GT" src="https://github.com/user-attachments/assets/306d43e3-8761-450d-8492-ba18b28611b3" />
-          </a>
+       <img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/2a2c6a16-4f8d-4fcb-abdf-553907c02f9b" />
+         </a>
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/df1238f1-81a1-4e18-857a-c66172ad535c/public_url">
@@ -35,7 +35,7 @@
     </td>
     <td align="center">
       <a href="https://innovation.ansys.com/badges/badge/dG9wb2xvZ3ktb3B0aW1pemF0aW9uLXVzaW5nLWFuc3lzLWRpc2NvdmVyeS02OQ%3D%3D=">
-        Thermo-Fluid Systems
+        Semiconductor and MEMS Fabrication
       </a>
     </td>
     <td align="center">
