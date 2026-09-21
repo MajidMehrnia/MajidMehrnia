@@ -11,7 +11,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/org/virginia-commonwealth-university/badge/automation-and-controls-training?utm_source=chatgpt.com">
+      <a href="https://www.credly.com/org/virginia-commonwealth-university/badge/automation-and-controls-training">
        <img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/84af9b1c-1a98-43bd-8129-f198a744b95f" />
          </a>
     </td>
@@ -34,7 +34,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/org/university-of-arizona/badge/fast-track-semiconductor-manufacturing">
+      <a href="https://www.credly.com/org/virginia-commonwealth-university/badge/automation-and-controls-training">
         Motion Control
       </a>
     </td>
