@@ -11,8 +11,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/org/university-of-arizona/badge/fast-track-semiconductor-manufacturing">
-       <img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/d960738a-74da-4a23-89cd-ade7a3a5ea25" />
+      <a href="https://www.credly.com/org/virginia-commonwealth-university/badge/automation-and-controls-training?utm_source=chatgpt.com">
+       <img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/84af9b1c-1a98-43bd-8129-f198a744b95f" />
          </a>
     </td>
     <td align="center">
@@ -35,11 +35,11 @@
     </td>
     <td align="center">
       <a href="https://www.credly.com/org/university-of-arizona/badge/fast-track-semiconductor-manufacturing">
-        Semiconductor Fabrication
+        Motion Control
       </a>
     </td>
     <td align="center">
-        <a href="https://www.credly.com/org/apmg-international/badge/model-based-system-engineering-with-sysml-foundation">
+        <a href="https://www.credly.com/org/virginia-commonwealth-university/badge/automation-and-controls-training?utm_source=chatgpt.com">
         Systems Engineering
       </a>
     </td>
