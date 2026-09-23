@@ -1,3 +1,18 @@
+# Hi, I'm Majid 👋
+
+### Engineering Leader | Technology & Product Strategy | NPI/NPD | Electromechanical Systems
+
+**Connect technology with products, execution, and measurable business value.**
+
+### ⚙️ Engineering Focus
+
+* **Engineering & Product Strategy** | Technology Roadmapping | Portfolio Management
+* **Motion Control & Electromechanical Systems** | Systems Engineering | Product Architecture
+* **NPI/NPD** | Hybrid Agile + Stage-Gate | V-Model | DfX / DFSS
+* **Digital Engineering** | MBSE | Digital Thread | Digital Twin | ECAD/MCAD
+* **Operational Excellence** | Quality | Cost | Reliability | On-Time Delivery
+
+
 <table align="center">
   <tr>
     <td align="center">
