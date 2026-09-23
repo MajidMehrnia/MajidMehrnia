@@ -2,7 +2,6 @@
 
 ### Engineering Leader | Technology & Product Strategy | NPI/NPD | Electromechanical Systems
 
-**Connect technology with products, execution, and measurable business value.**
 
 ### ⚙️ Engineering Focus
 
