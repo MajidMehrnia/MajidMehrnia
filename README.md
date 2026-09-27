@@ -1,6 +1,6 @@
 # Hi, I'm Majid 👋
 
-### Engineering Leader | Technology & Product Strategy | NPI/NPD | Electromechanical Systems
+### Engineering Leader | Technology & Product Strategy | NPI/NPD | Complex Fluid Systems 
 
 
 ### ⚙️ Engineering Focus
