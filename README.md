@@ -7,7 +7,7 @@
 
 * **Engineering & Product Strategy** | Technology Roadmapping | Portfolio Management
 * **Electromechanical & Complex Fluid Systems** | Systems Engineering | Product Architecture
-* **NPI/NPD** | Hybrid Agile + Stage-Gate | V-Model | DfX / DFSS
+* **NPI/NPD** | Hybrid Agile + Stage-Gate | V-Model | DfX / DFSS | Value Engineering (VAVE)
 * **Digital Engineering** | MBSE | Digital Thread | Digital Twin | ECAD/MCAD
 * **Operational Excellence** | Quality | Cost | Reliability | On-Time Delivery
 
