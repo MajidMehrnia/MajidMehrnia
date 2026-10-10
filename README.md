@@ -47,7 +47,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/org/virginia-commonwealth-university/badge/automation-and-controls-training">
+      <a href="https://www.value-eng.org/page/VMA">
         Motion Control
       </a>
     </td>
