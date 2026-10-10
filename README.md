@@ -21,7 +21,7 @@
     </td>
     <td align="center">
        <a href="https://valueengineeringhub.com">
-     <img width="180" height="181" alt="image" src="https://github.com/user-attachments/assets/f4b561e0-478f-44d0-8bed-6644a01afc12" />
+     <img width="200" height="181" alt="image" src="https://github.com/user-attachments/assets/f4b561e0-478f-44d0-8bed-6644a01afc12" />
       </a>
     </td>
     <td align="center">
