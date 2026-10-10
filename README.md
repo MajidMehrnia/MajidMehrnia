@@ -7,7 +7,7 @@
 
 * **Engineering & Product Strategy** | Technology Roadmapping | Portfolio Management
 * **Electromechanical & Complex Fluid Systems** | Systems Engineering | Product Architecture
-* **NPI/NPD** | Hybrid Agile + Stage-Gate | V-Model | DfX / DFSS | Value Engineering - [VAVE for Leaders] (<img width="840" height="548" alt="VAVE" src="https://github.com/user-attachments/assets/4873915c-7b25-4e0e-8a37-b5efbb035efd" />
+* **NPI/NPD** | Hybrid Agile + Stage-Gate | V-Model | DfX / DFSS | Value Engineering - [VAVE for Leaders](<img width="840" height="548" alt="VAVE" src="https://github.com/user-attachments/assets/4873915c-7b25-4e0e-8a37-b5efbb035efd" />
 )
 * **Digital Engineering** | MBSE | Digital Thread | Digital Twin | ECAD/MCAD
 * **Operational Excellence** | Quality | Cost | Reliability | On-Time Delivery
