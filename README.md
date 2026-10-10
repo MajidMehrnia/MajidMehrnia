@@ -16,12 +16,12 @@
   <tr>
     <td align="center">
        <a href="https://www.coursera.org/learn/expedite-skills-for-industry-design-and-manufacturing">
-     <img width="185" height="150" alt="blob" src="https://github.com/user-attachments/assets/d03c9110-b7a7-48d6-9808-82d7d733356a" />
+     <img width="185" height="185" alt="blob" src="https://github.com/user-attachments/assets/d03c9110-b7a7-48d6-9808-82d7d733356a" />
     </a>
     </td>
     <td align="center">
       <a href="https://valueengineeringhub.com/certificate.html?c=eyJuIjoiTWFqaWQgTWVocm5pYSIsInMiOjc1LCJkIjoiMjAyNi0xMC0xMCIsImlkIjoiVkwtTVYyUFpJMDgiLCJrIjoiTCJ9">
-      <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/205ff455-f1f0-49b1-ac43-381c9efa59d8" />
+      <img width="200" height="170" alt="image" src="https://github.com/user-attachments/assets/205ff455-f1f0-49b1-ac43-381c9efa59d8" />
       </a>
     </td>
     <td align="center">
