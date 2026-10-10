@@ -43,7 +43,7 @@
       </a>
     </td>
     <td align="center">
-  <a href="https://www.coursera.org/learn/expedite-skills-for-industry-design-and-manufacturing">
+  <a href="https://valueengineeringhub.com">
            VAVE for Leaders
       </a>
     </td>
