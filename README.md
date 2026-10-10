@@ -20,7 +20,8 @@
     </a>
     </td>
     <td align="center">
-    <img width="1024" height="901" alt="image" src="https://github.com/user-attachments/assets/c7fe76b7-ede9-477c-8161-ad4592bb50e9" />
+       <a href="https://www.coursera.org/learn/expedite-skills-for-industry-design-and-manufacturing">
+    <img width="224" height="181" alt="image" src="https://github.com/user-attachments/assets/c7fe76b7-ede9-477c-8161-ad4592bb50e9" />
       </a>
     </td>
     <td align="center">
