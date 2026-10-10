@@ -43,7 +43,7 @@
       </a>
     </td>
     <td align="center">
-      <a https://valueengineeringhub.com/certificate.html?c=eyJuIjoiTWFqaWQgTWVocm5pYSIsInMiOjc1LCJkIjoiMjAyNi0xMC0xMCIsImlkIjoiVkwtTVYyUFpJMDgiLCJrIjoiTCJ9">
+      <a https://valueengineeringhub.com/certificate.htmlc=eyJuIjoiTWFqaWQgTWVocm5pYSIsInMiOjc1LCJkIjoiMjAyNi0xMC0xMCIsImlkIjoiVkwtTVYyUFpJMDgiLCJrIjoiTCJ9">
            VAVE For Leaders
       </a>
     </td>
