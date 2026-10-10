@@ -43,7 +43,7 @@
       </a>
     </td>
     <td align="center">
-      <a <img width="840" height="548" alt="VAVE" src="https://github.com/user-attachments/assets/e66bb69c-29bc-4e50-a91b-6aa64d25bfa2">
+      <a https://valueengineeringhub.com/certificate.html?c=eyJuIjoiTWFqaWQgTWVocm5pYSIsInMiOjc1LCJkIjoiMjAyNi0xMC0xMCIsImlkIjoiVkwtTVYyUFpJMDgiLCJrIjoiTCJ9">
            VAVE For Leaders
       </a>
     </td>
