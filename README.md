@@ -21,7 +21,7 @@
     </td>
     <td align="center">
        <a href="https://www.coursera.org/learn/expedite-skills-for-industry-design-and-manufacturing">
-      <img width="185" height="185" alt="blob" src="https://github.com/user-attachments/assets/d03c9110-b7a7-48d6-9808-82d7d733356a" />
+     <img width="224" height="181" alt="image" src="https://github.com/user-attachments/assets/f4b561e0-478f-44d0-8bed-6644a01afc12" />
       </a>
     </td>
     <td align="center">
