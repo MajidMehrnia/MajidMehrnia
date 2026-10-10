@@ -20,7 +20,6 @@
     </a>
     </td>
     <td align="center">
-      <a href="https://valueengineeringhub.com/certificate.html?c=eyJuIjoiTWFqaWQgTWVocm5pYSIsInMiOjc1LCJkIjoiMjAyNi0xMC0xMCIsImlkIjoiVkwtTVYyUFpJMDgiLCJrIjoiTCJ9">
      <img width="210" height="130" alt="VAVE" src="https://github.com/user-attachments/assets/0b85bf4e-4a05-4e5b-ac40-eb9cb038cb5d" />
       </a>
     </td>
@@ -43,7 +42,7 @@
       </a>
     </td>
     <td align="center">
-      <a https://valueengineeringhub.com/certificate.htmlc=eyJuIjoiTWFqaWQgTWVocm5pYSIsInMiOjc1LCJkIjoiMjAyNi0xMC0xMCIsImlkIjoiVkwtTVYyUFpJMDgiLCJrIjoiTCJ9">
+  <a href="https://www.coursera.org/learn/expedite-skills-for-industry-design-and-manufacturing">
            VAVE For Leaders
       </a>
     </td>
