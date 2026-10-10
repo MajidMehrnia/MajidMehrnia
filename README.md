@@ -20,8 +20,8 @@
     </a>
     </td>
     <td align="center">
-      <a href="https://eu1.iam.3dexperience.3ds.com/login?service=https%3A%2F%2Feduspace.3ds.com%2FCompanionManager%2Frest%2Fup%2FauthenticateService%2Fauthenticate%3Flang%3Dde%26rc_Type%3D5%26lpId%3D430%26lexType%3D3%26rd%3Dtrue">
-       <img width="170" height="177" alt="image" src="https://github.com/user-attachments/assets/b1f031e9-a36b-4a2a-8a24-c74ed7ddc984" />
+      <a href="https://valueengineeringhub.com/certificate.html?c=eyJuIjoiTWFqaWQgTWVocm5pYSIsInMiOjc1LCJkIjoiMjAyNi0xMC0xMCIsImlkIjoiVkwtTVYyUFpJMDgiLCJrIjoiTCJ9">
+      <img width="1024" height="901" alt="image" src="https://github.com/user-attachments/assets/205ff455-f1f0-49b1-ac43-381c9efa59d8" />
       </a>
     </td>
     <td align="center">
@@ -43,8 +43,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://eu1.iam.3dexperience.3ds.com">
-           Digital Thread 
+      <a href="https://valueengineeringhub.com/certificate.html?c=eyJuIjoiTWFqaWQgTWVocm5pYSIsInMiOjc1LCJkIjoiMjAyNi0xMC0xMCIsImlkIjoiVkwtTVYyUFpJMDgiLCJrIjoiTCJ9">
+           VAVE For Leaders
       </a>
     </td>
     <td align="center">
