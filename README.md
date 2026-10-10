@@ -20,7 +20,7 @@
     </a>
     </td>
     <td align="center">
-       <a href="https://www.coursera.org/learn/expedite-skills-for-industry-design-and-manufacturing">
+       <a href="https://valueengineeringhub.com">
      <img width="224" height="181" alt="image" src="https://github.com/user-attachments/assets/f4b561e0-478f-44d0-8bed-6644a01afc12" />
       </a>
     </td>
