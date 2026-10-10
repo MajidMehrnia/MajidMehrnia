@@ -53,7 +53,7 @@
       </a>
     </td>
     <td align="center">
-        <a href="https://www.credly.com/org/virginia-commonwealth-university/badge/automation-and-controls-training?utm_source=chatgpt.com">
+        <a href="https://www.credly.com/org/apmg-international/badge/model-based-system-engineering-with-sysml-foundation">
         Systems Engineering
       </a>
     </td>
