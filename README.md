@@ -20,7 +20,7 @@
     </a>
     </td>
     <td align="center">
-     <img width="210" height="130" alt="VAVE" src="https://github.com/user-attachments/assets/0b85bf4e-4a05-4e5b-ac40-eb9cb038cb5d" />
+    <img width="1024" height="901" alt="image" src="https://github.com/user-attachments/assets/c7fe76b7-ede9-477c-8161-ad4592bb50e9" />
       </a>
     </td>
     <td align="center">
